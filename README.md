@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
-## Date: 
-26-11-2-24
+## Date: 26-11-24
+
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -179,7 +179,8 @@ perungalathur.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (71)-1.png>)
+![Screenshot (90)](https://github.com/user-attachments/assets/b0e25558-55ff-4579-a649-9b7b550a96af)
+
 ![alt text](<Screenshot (73)-1.png>)
 ![alt text](<Screenshot (74)-1.png>)
 ![alt text](<Screenshot (75)-1.png>)
